@@ -3,6 +3,7 @@
 git clone https://github.com/phu2007vis/Text_Detection_Generation.git
 cd Text_Detection_generation
 ```
+# Run gen 
 ```bash
 python trdg_phuoc/generators/from_strings.py \
   --output_dir ./outs \
@@ -15,7 +16,6 @@ python trdg_phuoc/generators/from_strings.py \
 
 ```
 
-# Params:
 -  Aug: augumentation the output images or not
 - count: total images
 - background_dir: image backgound dir

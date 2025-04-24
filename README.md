@@ -1,3 +1,8 @@
+# Clone repo:
+```bash
+git clone https://github.com/phu2007vis/Text_Detection_Generation.git
+cd Text_Detection_generation
+```
 ```bash
 python trdg_phuoc/generators/from_strings.py \
   --output_dir ./outs \
@@ -19,3 +24,4 @@ python trdg_phuoc/generators/from_strings.py \
 
 
 # Viusalization: python visaualize.py to assert the output format is correct
+![Sample Output](sample.png)

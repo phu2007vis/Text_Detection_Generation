@@ -1,0 +1,12 @@
+cleaned/20250307_155259_102origin.png	1
+cleaned/20250307_175310_268origin.png	1
+cleaned/20250308_140743_130origin.png	1
+cleaned/origin_1.png	1
+cleaned/origin_2.png	1
+cleaned/origin_3.png	1
+cleaned/origin_4.png	1
+cleaned/raw.png	1
+cleaned/red_chalk.png	1
+cleaned/test5.png	1
+cleaned/test6.png	1
+cleaned/test7.png	1

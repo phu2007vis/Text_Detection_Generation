@@ -1,0 +1,1 @@
+origin_9.png	[{"transcription": "待识别", "points": [[644, 573], [103, 1318], [1652, 1227], [1139, 546]], "difficult": false}]

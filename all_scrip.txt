@@ -1,0 +1,8 @@
+python /work/21013187/phuoc/TextRecognitionDataGenerator2/trdg_phuoc/generators/from_strings.py \
+ --output_dir=/work/21013187/phuoc/TextRecognitionDataGenerator2/outs2 \
+ --count=1300 \
+ --aug \
+ --background_dir=/work/21013187/phuoc/TextRecognitionDataGenerator2/trdg_phuoc/images \
+ --color_path=/work/21013187/phuoc/TextRecognitionDataGenerator2/trdg_phuoc/font_colors.txt \
+ --remove_exsist \
+ --background_polygons=/work/21013187/phuoc/TextRecognitionDataGenerator2/trdg_phuoc/images/Label.txt

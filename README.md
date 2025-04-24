@@ -1,12 +1,13 @@
 ```bash
-python /trdg_phuoc/generators/from_strings.py \
- --output_dir=/work/21013187/phuoc/TextRecognitionDataGenerator2/outs2 \
- --count=1300 \
- --aug \
- --background_dir=/work/21013187/phuoc/TextRecognitionDataGenerator2/trdg_phuoc/images \
- --color_path=trdg_phuoc/font_colors.txt \
- --remove_exsist \ 
- --background_polygons=trdg_phuoc/images/Label.txt
+python trdg_phuoc/generators/from_strings.py \
+  --output_dir ./outs \
+  --count 1300 \
+  --aug \
+  --background_dir trdg_phuoc/images \
+  --color_path trdg_phuoc/font_colors.txt \
+  --remove_exsist \
+  --background_polygons trdg_phuoc/images/Label.txt
+
 ```
 
 # Params:

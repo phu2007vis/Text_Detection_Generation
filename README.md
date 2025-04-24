@@ -20,7 +20,7 @@ python trdg_phuoc/generators/from_strings.py \
 - count: total images
 - background_dir: image backgound dir
 - backgound_polgons: define the region the the text do not out side
-
+- put the fonts used for generate in phuoc_fonts dir ( randomly choice)
 
 
 # Viusalization: python visaualize.py to assert the output format is correct
